@@ -1,7 +1,6 @@
 ### Hatsune Miku!
 
-[![Hatsune Miku](https://bakunya.pages.dev)]([https://holopin.io/@bakunya](https://raw.githubusercontent.com/bakunya/bakunya.github.io/master/FqngBGhaQAAb_-h.jpeg))
-
+[![Hatsune Miku](https://raw.githubusercontent.com/bakunya/bakunya.github.io/master/FqngBGhaQAAb_-h.jpeg)](https://holopin.io/@bakunya](https://bakunya.pages.dev))
 <!-- [![@bakunya's Holopin board](https://holopin.me/bakunya)](https://holopin.io/@bakunya) -->
 
 <!-- ### Hi there 👋 -->
