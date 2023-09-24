@@ -1,7 +1,7 @@
 ## Miku Must Be an Angel
 
-[![Hatsune Miku](https://github.com/bakunya/bakunya.github.io/blob/54d272efab51e9aa78ddebb2515a6cf388b4104b/hatsune-miku-dancing.gif)](https://holopin.io/@bakunya](https://bakunya.pages.dev))
-[![Hatsune Miku](https://github.com/bakunya/bakunya.github.io/blob/54d272efab51e9aa78ddebb2515a6cf388b4104b/hatsune-miku.gif)](https://holopin.io/@bakunya](https://bakunya.pages.dev))
+<!--  [![Hatsune Miku](https://github.com/bakunya/bakunya.github.io/blob/54d272efab51e9aa78ddebb2515a6cf388b4104b/hatsune-miku-dancing.gif)](https://holopin.io/@bakunya](https://bakunya.pages.dev))
+[![Hatsune Miku](https://github.com/bakunya/bakunya.github.io/blob/54d272efab51e9aa78ddebb2515a6cf388b4104b/hatsune-miku.gif)](https://holopin.io/@bakunya](https://bakunya.pages.dev)) -->
 [![Hatsune Miku](https://raw.githubusercontent.com/bakunya/bakunya.github.io/master/FqngBGhaQAAb_-h.jpeg)](https://holopin.io/@bakunya](https://bakunya.pages.dev))
 <!-- [![@bakunya's Holopin board](https://holopin.me/bakunya)](https://holopin.io/@bakunya) -->
 
